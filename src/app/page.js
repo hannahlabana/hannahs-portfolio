@@ -49,7 +49,7 @@ export default function Home() {
 
       <div className="flex justify-between h-full text-base w-full">
         <span>developed by me</span>
-        <span>last updated by june 30, 2024</span>
+        <span>last updated by june 29, 2024</span>
       </div>
     </div>
   );

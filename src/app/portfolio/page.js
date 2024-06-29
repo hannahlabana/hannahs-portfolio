@@ -99,7 +99,7 @@ export default function Portfolio() {
 			{/* FOOTER */}
 			<div className="pt-10 flex justify-between h-full text-base w-full text-white">
         <span>developed by me</span>
-        <span>last updated by june 30, 2024</span>
+        <span>last updated by june 29, 2024</span>
       </div>
     </div>
   )
